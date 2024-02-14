@@ -4,3 +4,11 @@ ls --color=auto
 ls --color=auto -akl
 ls --color=auto -al
 git add .
+git commit -m "save everything in start of proj"
+git status
+git add --al
+git add --all
+git status
+git add --all
+git status
+git add .

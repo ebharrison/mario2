@@ -1,2 +1,6 @@
 echo hello PostgreSQL
 psql --username=freecodecamp --dbname=postgres
+ls --color=auto
+ls --color=auto -akl
+ls --color=auto -al
+git add .

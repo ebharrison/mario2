@@ -12,3 +12,26 @@ git status
 git add --all
 git status
 git add .
+git status
+git loq
+git log
+__vsc_prompt_cmd_original
+ls --color=auto -al
+git status
+git commit -m "commit more initial stuff"
+git status
+git add .
+git status
+git restore --staged ..
+git restore --staged .
+git push
+ls --color=auto
+ls --color=auto -al
+touch dumpDatabase.sh
+code dumpDatabase.sh
+ls --color=auto -al
+chmod +x dumpDatabase.sh
+./dumpDatabase.sh
+ls --color=auto -al
+cat dumpDatabase.sh
+./dumpDatabase.sh

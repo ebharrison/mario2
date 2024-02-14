@@ -35,3 +35,9 @@ chmod +x dumpDatabase.sh
 ls --color=auto -al
 cat dumpDatabase.sh
 ./dumpDatabase.sh
+code rebuildDatabse.sh
+chmod +x rebuildDatabse.sh
+./rebuildDatabse.sh
+./rebuildDatabse.sh
+git status
+git add .

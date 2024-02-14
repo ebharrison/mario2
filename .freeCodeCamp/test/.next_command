@@ -41,3 +41,7 @@ chmod +x rebuildDatabse.sh
 ./rebuildDatabse.sh
 git status
 git add .
+git commit -m "add script to restore databse"
+git push
+ls --color=auto -al
+./rebuildDatabse.sh

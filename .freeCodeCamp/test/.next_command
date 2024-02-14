@@ -45,3 +45,6 @@ git commit -m "add script to restore databse"
 git push
 ls --color=auto -al
 ./rebuildDatabse.sh
+ls --color=auto
+ls --color=auto -al
+./dumpDatabase.sh
